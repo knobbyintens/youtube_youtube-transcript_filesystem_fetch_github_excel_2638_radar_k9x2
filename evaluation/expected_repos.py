@@ -16,6 +16,7 @@ REQUIRED_REPOS = [
     "https://github.com/dshukertjr/claude-commerce",
     "https://github.com/supabase-community/database-build",
     "https://github.com/dshukertjr/vector-content-recommendation",
+    "https://github.com/supabase-community/nextjs-openai-doc-search",
 ]
 
 
