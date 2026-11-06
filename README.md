@@ -1,2 +1,8 @@
-# youtube_youtube-transcript_filesystem_fetch_github_excel_2638_radar_k9x2
-Quarterly repo radar tracker for PL5S4mPUpp4OuLOWOguO6E9F2IMm2OoxJu
+# Repo Radar Tracker
+
+Quarterly open-source demo repo radar for the Northwind Labs developer relations team.
+
+Source playlist: https://www.youtube.com/playlist?list=PL5S4mPUpp4OuLOWOguO6E9F2IMm2OoxJu
+
+Issues carrying the `repo-radar` label record repositories selected for the starter gallery.
+Automation and acceptance assets for the quarterly review exercise live under `evaluation/`.
